@@ -2,6 +2,7 @@ name: Meme
 favicon: null
 layout_spectrum: 0.71779
 typography_spectrum: 0.47856
+title: First trial site
 cta:
   domain: null
   bucket: null
